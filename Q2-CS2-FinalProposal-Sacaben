@@ -1,0 +1,78 @@
+Pisay Grade Calculator
+by Sacaben
+
+ I.       There is a setback that I have experienced and still am to this day. A problem I know many others (my classmates) experience because I hear their anxious complaints between each class. A problem that brings feelings of “kulba” that last from mere moments to whole quarters. A problem that hinders my analysis of scores in certain subjects, hinders my ability to improve. 
+II. The problem? Not being able to see my tentative grade/s,  where to improve, and my next chance to “lift” my grade.
+
+III. Key Objectives:
+- To be able to see my tentative grade 
+E.g.: “current grade: 85. Note: Needs improvement”
+
+- To be able to check in which given subject/s in a certain quarter, I need to improve in;
+- To accurately foresee my next chance of improving.
+E.g.: Algebra_2
+              Current grade: {}. Get more than {example percentage} in the next quiz to
+              get a grade >= to 60%.
+
+(Bonus: halfway calms anxiety regarding grades)
+
+IV. My solution:          
+         To write a program the main function of which is a grade, percentage, and average calculator. Asking for and accepting the specifics/labels of the certain assessment/s and the requirements to calculate—like score, total score, and assessment weight; it will output the results and conclusion/s with the necessary details and information to guide the student to improve in the school year.
+
+V. Scope/parts I want to make:
+
+-main functions (literally “def func”):
+(tentative) grade calculator 
+average (for  assessment, subjects, quarters, and even school years) calculator
+percentage calculator
+
+A. Planned inputs and outputs / partial pseudocode
+#input existing for all choices
+ output 1
+“Menu: 
+a. Assessment
+b. Subject
+c. Quarter
+d. S.Y.
+e. Whole high school
+choice: “, x
+|following out put for option 1a 
+“Menu
+a. Grade/rating
+b. Average for assessment
+c. Percent rating
+choice: “, x
+|following output for option 1b
+“Menu:
+a. Grade/rating
+b. Average for whole year
+c. Percent rating
+choice: “, x
+|following output for 1c
+“Menu:
+a. GWA
+b.percent rating
+choice: “, x
+|following output for 1d
+“Menu:
+a. GWA/rating for the year
+b. Percent rating
+|following output for 1e 
+“Menu: 
+a. GWA/Rating
+b. Percent rating
+
+B. Plan for the project
+Grade 8:
+- Ask from ma’am Datch, or anyone with the right knowledge, the equation for assessments and the how to convert to Pisay standards
+- make a clean logic plan for approval
+- spend most—if not, all—free time on coding (and fixing up the logic plan if needed)
+Grade 9:
+- create an app or website as a project, based solely on the general idea
+- make it table form with the scores and grades being modifiable inputs
+- make the results adjust according to the inputed grades and vice-versa; 
+- but  place an option to show the “permanent” inputed scores (for those values, it will ask for input for the score then an option to make it the “permanent” value)
+
+subject: C.S.2
+section: Sampaguita
+contributing student/s: Sacaben
